@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {"id":{"name":"mandelbrot_maxperf","path":"scripts/mandelbrot_maxperf/mandelbrot_maxperf.yy",},"order":8,},
+    {"id":{"name":"macros","path":"scripts/macros/macros.yy",},"order":2,},
+    {"id":{"name":"obj_canvas_maxperf","path":"objects/obj_canvas_maxperf/obj_canvas_maxperf.yy",},"order":1,},
+    {"id":{"name":"font_display","path":"fonts/font_display/font_display.yy",},"order":5,},
+    {"id":{"name":"globals","path":"scripts/globals/globals.yy",},"order":6,},
+    {"id":{"name":"mandelbrot","path":"scripts/mandelbrot/mandelbrot.yy",},"order":3,},
+    {"id":{"name":"obj_canvas","path":"objects/obj_canvas/obj_canvas.yy",},"order":9,},
+    {"id":{"name":"font_bounds","path":"fonts/font_bounds/font_bounds.yy",},"order":4,},
+    {"id":{"name":"other_function0","path":"scripts/other_function0/other_function0.yy",},"order":7,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+  ],
+  "isDnDProject": false,
+  "isEcma": false,
+  "tutorialPath": "",
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "Folders": [],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2.3.3.574",
+  },
+  "resourceVersion": "1.4",
+  "name": "mandelbrot",
+  "tags": [],
+  "resourceType": "GMProject",
+}
